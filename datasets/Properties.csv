@@ -1,0 +1,22 @@
+index;QA1;QA2;QA3
+P1;Providing fallbacks;Monitor;Sanity Checking
+P2;Asynchronous messaging;Transactions;
+P3;State Resynchronization;;
+P4;Set timeouts;;
+P5;Self-preservation;;
+P6;Ping/Echo;Monitor;
+P7;Preventing single dependency;Providing fallbacks;
+P8;Providing fallbacks;;
+P9;Monitor;;
+P10;Heartbeat;;
+P11;Removal from Service;Self-preservation;
+P12;State Resynchronization;Removal from Service;
+S1;Network Location;Balancing Scale;
+S2;Container Deployment;Self-description;
+S3;Data Store Separation;;
+I1;Discover Service;;
+I2;Orchestrate;Tailor Interface;
+C1;Authorize Actor;;
+C2;Autheticate Actors;;
+C3;Indetify Actor;Limit Exposure;
+C4;Limit Access;;
